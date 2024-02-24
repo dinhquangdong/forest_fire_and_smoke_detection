@@ -1,11 +1,11 @@
-- Các thành viên nhóm:
-Hồ Hồng Hà - 20520480
-Trương Văn Chinh - 20521137
-Đinh Quang Đông - 20521189
+Các thành viên nhóm:
+- Hồ Hồng Hà - 20520480
+- Trương Văn Chinh - 20521137
+- Đinh Quang Đông - 20521189
 
-- Trong thư mục source có folder training là các file .ipynb có chứa các kết quả của quá trình train model.
+Trong thư mục source có folder training là các file .ipynb có chứa các kết quả của quá trình train model.
 
-- Hướng dẫn build và thực thi code:
+Hướng dẫn build và thực thi code:
     1. Mở command prompt hoặc terminal
     2. Nếu dùng anaconda, chạy lần lượt các câu lệnh sau để tạo môi trường ảo:
     conda create --name fire_and_smoke_detection
@@ -20,4 +20,4 @@ Trương Văn Chinh - 20521137
     5. Chạy câu lệnh sau để chạy demo của chương trình:
     streamlit run demo.py
 
-- Link dataset: https://universe.roboflow.com/kirzone/fire-iejes/dataset/2
+Link dataset: https://universe.roboflow.com/kirzone/fire-iejes/dataset/2
